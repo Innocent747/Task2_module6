@@ -24,6 +24,7 @@
         android:extractNativeLibs="false"
         android:label="Нобелевские лауреаты"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/Theme.Task2module6" >
         <activity
             android:name="com.example.task2module6.MainActivity"
