@@ -1,0 +1,1 @@
+-keep,allowobfuscation,allowshrinking class com.example.task2module6.presentation.viewmodel.NobelViewModel
